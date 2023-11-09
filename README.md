@@ -1,9 +1,9 @@
-<h1 align="center"> Muhammad Abdullah Zahid</h1>
+<h1 align="center">Muhammad Abdullah Zahid</h1>
 <h3 align="center">Frontend Web Developer --- Computer Scientist</h3>
 
 - 🔭 I’m currently working on **Map Navigation System**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, React, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah1904](https://github.com/abdullah1904)
 
