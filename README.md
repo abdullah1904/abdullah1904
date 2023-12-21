@@ -1,9 +1,9 @@
 <h1 align="center">Muhammad Abdullah Zahid</h1>
 <h3 align="center">Frontend Web Developer --- Computer Scientist</h3>
 
-- 🔭 I’m currently working on **CRUD Class Register**
+- 🔭 I’m currently working on **my Internship**
 
-- 🌱 I’m currently learning **Python, React, Jest, Tailwind, NumPy**
+- 🌱 I’m currently learning **Python, React, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah1904](https://github.com/abdullah1904)
 
