@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Abdullah Zahid</h1>
-<h3 align="center">Frontend Web Developer --- Computer Scientist</h3>
+<h3 align="center">Frontend Web Developer - Computer Scientist</h3>
 
 - 🔭 I’m currently working on **Internship**
 
