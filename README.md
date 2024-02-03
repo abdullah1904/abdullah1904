@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Student Database System**
 
-- 🌱 I’m currently learning **React, Express DBMS and OS**
+- 🌱 I’m currently learning **React, Express, TypeScript, DBMS and OS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah1904](https://github.com/abdullah1904)
 
