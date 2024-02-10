@@ -52,10 +52,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
 </div>
-
-###
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah1904&show_icons=true&locale=en&layout=compact" alt="abdullah1904" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah1904&show_icons=true&locale=en" alt="abdullah1904" /></p>
