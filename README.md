@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah Zahid</h1>
+<h1 align="center">Muhammad Abdullah Zahid</h1>
 <h3 align="center">Web Developer <br/> Computer Scientist</h3>
 
 - 🔭 I’m currently working on **Student Database System**
