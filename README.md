@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Operating Systems and Database Systems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdullah1904](https://github.com/abdullah1904)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/abdullah1904)
 
 - 📫 How to reach me **mabdullahzahid782@gmail.com**
 
