@@ -48,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah1904&show_icons=true&locale=en" alt="abdullah1904" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah1904&" alt="abdullah1904" /></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah1904&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullah1904)](https://github.com/anuraghazra/github-readme-stats)
