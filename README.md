@@ -1,8 +1,6 @@
 <h1 align="center">Muhammad Abdullah Zahid</h1>
 <h3 align="center">Web Developer <br/> Computer Scientist</h3>
 
-- 🔭 I’m currently working on **Student Database System**
-
 - 🌱 I’m currently learning **React, Next JS, Operating Systems and Database Systems**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/abdullah1904)
